@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <!--
@@ -24,16 +24,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
----
+
 
 ### :man_technologist: About Me :
 I am a DevOps engineer from Saint-Petersburg.
 ---
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :White Heavy Check Mark: Completed courses:
+  - [Yandex practicum - DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [Yandex practicum - Algorithm and data structure](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [ITMO - Basecapm DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🐶 Pet projects:
+  - 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
@@ -61,9 +63,9 @@ I am a DevOps engineer from Saint-Petersburg.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavlyk&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlyk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
