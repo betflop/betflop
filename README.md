@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/youtube/channel/views/UCJpVin6HWS1q5rCtn2TmS-A?style=social" alt="Youtube Badge"/>
   </a>
   <a href="[telegram](https://t.me/betflop)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
