@@ -27,7 +27,7 @@
 
 
 ### :man_technologist: About Me :
-I am a DevOps engineer from Saint-Petersburg.
+I am a DevOps engineer from Saint-Petersburg
 ---
 - ✅ Completed courses:
   - [Yandex practicum - DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
