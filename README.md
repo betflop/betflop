@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a DevOps engineer from Saint-Petersburg.
 ---
-- :White Heavy Check Mark: Completed courses:
+- ✅ Completed courses:
   - [Yandex practicum - DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
   - [Yandex practicum - Algorithm and data structure](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
   - [ITMO - Basecapm DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
