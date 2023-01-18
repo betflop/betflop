@@ -38,7 +38,7 @@ I am a DevOps engineer from Saint-Petersburg
 - 🐶 Pet projects:
   - [Golang telegrambot](https://github.com/pavlyk/DevOps/tree/master/telegrambot)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ru.linkedin.com/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ru.linkedin.com/)
 
 ---
 
