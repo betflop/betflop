@@ -30,13 +30,13 @@
 I am a DevOps engineer from Saint-Petersburg
 ---
 - ✅ Completed courses:
-  - [Yandex practicum - DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
-  - [ITMO - Bootcamp DevOps](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
-  - [Yandex practicum - Algorithm and data structure](https://github.com/pavlyk/Python/blob/master/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [Yandex practicum - DevOps](https://github.com/devopsovich/Python/blob/master/img/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [ITMO - Bootcamp DevOps]()
+  - [Yandex practicum - Algorithm and data structure]()
 
 
 - 🐶 Pet projects:
-  - [Golang telegrambot](https://github.com/pavlyk/DevOps/tree/master/telegrambot)
+  - [Golang telegrambot](https://github.com/devopsovich/Golang/tree/master/ozon_tgbot_grpc_docker)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://ru.linkedin.com/)
 
