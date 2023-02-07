@@ -33,7 +33,7 @@ I am a DevOps engineer from Saint-Petersburg
 - ✅ Completed courses:
   - [Yandex practicum - DevOps]()
   - [ITMO - Bootcamp DevOps]()
-  - [Yandex practicum - Algorithm and data structure](https://github.com/devopsovich/Python/blob/master/img/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [Yandex practicum - Algorithm and data structure](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.png)
   - [MIPT - Deep Learning School](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.pdf)
 
 
