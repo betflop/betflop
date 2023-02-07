@@ -5,14 +5,15 @@
   <!--
   <a href="https://www.youtube.com/channel/UCJpVin6HWS1q5rCtn2TmS-A">
     <img src="https://img.shields.io/youtube/channel/views/UCJpVin6HWS1q5rCtn2TmS-A?style=social" alt="Youtube Badge"/>
-  </a>
-  <a href="https://ru.linkedin.com/">
+  </a>  -->
+  <a href="https://www.linkedin.com/in/pavel-kozlov-5ab65874/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <!--
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>  
-  -->
+  </a>  -->
+
   <a href="https://t.me/betflop">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -30,15 +31,17 @@
 I am a DevOps engineer from Saint-Petersburg
 ---
 - ✅ Completed courses:
-  - [Yandex practicum - DevOps](https://github.com/devopsovich/Python/blob/master/img/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [Yandex practicum - DevOps]()
   - [ITMO - Bootcamp DevOps]()
-  - [Yandex practicum - Algorithm and data structure]()
+  - [Yandex practicum - Algorithm and data structure](https://github.com/devopsovich/Python/blob/master/img/-8309509097787543226pavel_kozlov_20222al00061.pdf)
+  - [MIPT - Deep Learning School](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.pdf)
 
 
 - 🐶 Pet projects:
-  - [Golang telegrambot](https://github.com/devopsovich/Golang/tree/master/ozon_tgbot_grpc_docker)
+  - [Golang telegrambot - dockerization and grpc integration](https://github.com/devopsovich/Golang/tree/master/ozon_tgbot_grpc_docker)
+  - [Deep learning - Python deploy CNN in heroku](https://github.com/pavlyk/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://ru.linkedin.com/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
 
 ---
 
