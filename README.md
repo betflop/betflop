@@ -40,8 +40,8 @@ I am a DevOps engineer from Saint-Petersburg
 
 
 - 🐶 Pet projects:
-  - [Golang telegrambot - dockerization and grpc integration](https://github.com/devopsovich/Golang/tree/master/ozon_tgbot_grpc_docker)
-  - [Deep learning - Python deploy CNN in heroku](https://github.com/pavlyk/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
+  - [Golang - telegrambot dockerization and grpc integration](https://github.com/devopsovich/Golang/tree/master/ozon_tgbot_grpc_docker)
+  - [Deep learning - Deploy Convolutional neural network in Heroku](https://github.com/pavlyk/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-kozlov-5ab65874/)
 
