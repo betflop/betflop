@@ -26,15 +26,15 @@
 </h1>
 </div>
 
+ <!---
+  - [ITMO - Bootcamp DevOps]()
+-->
 
 ### :man_technologist: About Me :
 I am a DevOps engineer from Saint-Petersburg
 ---
 - ✅ Completed courses:
   - [Yandex practicum - DevOps]()
- <!---
-  - [ITMO - Bootcamp DevOps]()
--->
   - [Yandex practicum - Algorithm and data structure](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.png)
   - [MIPT - Deep Learning School](https://github.com/pavlyk/DataScience/blob/master/imgs/MIPT_C1.pdf)
 
