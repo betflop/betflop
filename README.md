@@ -42,6 +42,8 @@ I am a DevOps engineer from Saint-Petersburg
 
 
 - 🐶 Pet projects:
+  - [React+Xterm - Interactive Browser Terminal playgrounds](https://github.com/betflop/Prog/tree/master/gtl)
+  - [Python+React - Flashcard Learning Service](https://github.com/betflop/Prog/tree/master/spef)
   - [Golang - telegrambot dockerization and grpc integration](https://github.com/betflop/Golang_Python/tree/master/ozon_road256/ozon_tgbot_grpc_docker)
   - [Deep learning - deploy Convolutional neural network in Heroku](https://github.com/betflop/DataScience/tree/master/DeepLearningSchool/homework_CNN_Deploy_in_heroku)
 
